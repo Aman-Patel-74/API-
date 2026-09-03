@@ -76,7 +76,7 @@ Manually incrementing/decrementing the `id` query parameter on the service-repor
 ```
 http://192.168.1.5:8888/service-report?id=154   -> logged-in user's own report
 http://192.168.1.5:8888/service-report?id=1     -> another user's report:
-  Owner: adam007@example.com, 9876895423
+  Owner: adam007@example.com, 
   Vehicle VIN: 7ECOX34KJTV359804
   Mechanic: TRAC_JHN, jhon@example.com
   Problem details (free text) contained the owner's phone number and email
